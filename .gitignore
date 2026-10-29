@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Databricks local configuration
+.databrickscfg
+
+# System files
+.DS_Store
+Thumbs.db
